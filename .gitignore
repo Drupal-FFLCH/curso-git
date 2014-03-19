@@ -5,3 +5,6 @@ local/*
 sites/site1
 sites/default
 !sites/default/default.settings.php
+
+
+root/sub1/*
