@@ -1,2 +1,4 @@
 .ide-project.config
 local/*
+sites/*
+!sites/default/default.settings.php
